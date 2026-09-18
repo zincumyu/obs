@@ -125,29 +125,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D2L/单节/d2l-Bahdanau注意力.md",
+                "file": "工具/git 常用指令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "d2l-Bahdanau注意力"
-            }
-          },
-          {
-            "id": "7b6677f2bec6b58b",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
-              },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "title": "git 常用指令"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -181,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gitig",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,7 +189,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -241,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.base",
+                "file": "工具/git 常用指令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -324,22 +312,25 @@
       "hermes-agent:Open Hermes smart graph": false
     }
   },
-  "active": "2c9db63b5cd6e2dc",
+  "active": "bd7e5a4bc316b019",
   "lastOpenFiles": [
-    "未命名 3.base",
+    "工具/硬技能（必须会）&&  指令技巧.md",
+    "SAA/网站管理.md",
+    "📌 笔记索引.md",
+    "项目白皮书/DSH web 保护.md",
     "未命名.base",
+    "Pasted image 20260908230758.png",
+    "未命名 3.base",
     "未命名 1.base",
     "未命名 2.base",
     "未命名 4.base",
     "D2L/单节/GRU知识点总结.md",
-    "📌 笔记索引.md",
     "SCPC/SCPC.md",
     "SCPC/STL容器对比-map-set-stack-queue-deque.md",
     "D2L/单节/d2l-注意力评分函数.md",
     "D2L/单节/d2l-编码器解码器架构.md",
     "D2L/单节/d2l-Bahdanau注意力.md",
     "D2L/复习.md",
-    "项目白皮书/DSH web 保护.md",
     "随笔/inori 记录.md",
     "SCPC/C语言学习.md",
     "随笔/C考试复习题.md",
@@ -347,10 +338,7 @@
     "项目白皮书",
     "工具/断点.md",
     "工具/Markdown 常用语法速查表.md",
-    "工具/硬技能（必须会）&&  指令技巧.md",
     "随笔/计算机任务清单.md",
-    "SAA/网站管理.md",
-    "Pasted image 20260908230758.png",
     "随笔/入党.md",
     "SCPC/Pasted image 20260729144854.png.md",
     "SCPC/matrix_teleport_solution.md",
