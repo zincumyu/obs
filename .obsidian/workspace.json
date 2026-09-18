@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "65d3bb39ab7e0fab",
+        "id": "66c6f414301990c4",
         "type": "tabs",
         "children": [
           {
-            "id": "bcea472dfb174452",
+            "id": "da92cc449f5021ba",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,8 +192,10 @@
       "hermes-agent:Open Hermes smart graph": false
     }
   },
-  "active": "b414dd7a4c43273e",
+  "active": "2c9db63b5cd6e2dc",
   "lastOpenFiles": [
+    "Pasted image 20260908230758.png",
+    "📌 笔记索引.md",
     "未命名 1.base",
     "未命名.base",
     "D2L/单节/d2l-注意力评分函数.md",
@@ -204,9 +206,7 @@
     "工具/git 常用指令.md",
     "工具/硬技能（必须会）&&  指令技巧.md",
     "SAA/网站管理.md",
-    "📌 笔记索引.md",
     "项目白皮书/DSH web 保护.md",
-    "Pasted image 20260908230758.png",
     "未命名 3.base",
     "未命名 2.base",
     "未命名 4.base",
