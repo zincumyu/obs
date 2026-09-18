@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "66c6f414301990c4",
+        "id": "4969d4f5fe95fea9",
         "type": "tabs",
         "children": [
           {
-            "id": "da92cc449f5021ba",
+            "id": "d45a6d01772c4d25",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -192,8 +192,10 @@
       "hermes-agent:Open Hermes smart graph": false
     }
   },
-  "active": "2c9db63b5cd6e2dc",
+  "active": "d45a6d01772c4d25",
   "lastOpenFiles": [
+    "kael 的日记/2026-09-18.md",
+    "kael 的日记",
     "Pasted image 20260908230758.png",
     "📌 笔记索引.md",
     "未命名 1.base",
@@ -232,7 +234,6 @@
     "随笔",
     "工具",
     "conda 常用指令.md~RFf7c3111.TMP",
-    "D2L/随笔",
     "D2L/pic/Pasted image 20260820195108.png",
     "D2L/pic/Pasted image 20260820195023.png",
     "D2L/pic/Pasted image 20260819235852.png",
