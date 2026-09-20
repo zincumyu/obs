@@ -517,3 +517,12 @@ begin()+索引决定第几元素
 	cout<<fixed<<setprecision(3) << double << '\n';
 ```
     C++ 输出格式控制,小数点后保留 **3 位小数**。
+
+
+``` cpp
+int mid = l + (r - l) / 2;
+```
+二分保护溢出
+
+
+** 复习st表

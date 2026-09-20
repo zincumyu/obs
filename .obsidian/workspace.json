@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kael 的日记/2026-09-19.md",
+                "file": "SCPC/SCPC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-19"
+              "title": "SCPC"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gitig",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,11 +200,12 @@
   },
   "active": "d45a6d01772c4d25",
   "lastOpenFiles": [
-    "kael 的日记/2026-09-18.md",
-    "kael 的日记/2026-09-19.md",
-    "kael 的日记",
-    "Pasted image 20260908230758.png",
+    "D2L/d2L 学习.md",
     "📌 笔记索引.md",
+    "Pasted image 20260908230758.png",
+    "kael 的日记/2026-09-19.md",
+    "kael 的日记/2026-09-18.md",
+    "kael 的日记",
     "未命名 1.base",
     "未命名.base",
     "D2L/单节/d2l-注意力评分函数.md",
@@ -236,7 +237,6 @@
     "SCPC/Pasted image 20260729144854.png.md",
     "SCPC/matrix_teleport_solution.md",
     "SCPC/离散化.md",
-    "SCPC/训练笔记-C++基础与预处理.md",
     "随笔",
     "工具",
     "conda 常用指令.md~RFf7c3111.TMP",
