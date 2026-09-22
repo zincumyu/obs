@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCPC/C语言学习.md",
+                "file": "SCPC/STL容器对比-map-set-stack-queue-deque.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C语言学习"
+              "title": "STL容器对比-map-set-stack-queue-deque"
             }
           }
         ]
@@ -200,14 +200,14 @@
   },
   "active": "d45a6d01772c4d25",
   "lastOpenFiles": [
-    "SCPC/matrix_teleport_solution.md",
     "SCPC/SCPC.md",
+    "SCPC/C语言学习.md",
+    "SCPC/matrix_teleport_solution.md",
     "SCPC/STL容器对比-map-set-stack-queue-deque.md",
     "📌 笔记索引.md",
     "SCPC/训练笔记-C++基础与预处理.md",
     "SCPC/C to C++.md",
     "SCPC/C到C++竞赛编程入门.md",
-    "SCPC/C语言学习.md",
     "工具/维护指令记录.md",
     "Pasted image 20260908230758.png",
     "D2L/d2L 学习.md",
