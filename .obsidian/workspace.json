@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/维护指令记录.md",
+                "file": "SCPC/C语言学习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "维护指令记录"
+              "title": "C语言学习"
             }
           }
         ]
@@ -200,10 +200,16 @@
   },
   "active": "d45a6d01772c4d25",
   "lastOpenFiles": [
-    "📌 笔记索引.md",
-    "Pasted image 20260908230758.png",
-    "工具/维护指令记录.md",
+    "SCPC/matrix_teleport_solution.md",
     "SCPC/SCPC.md",
+    "SCPC/STL容器对比-map-set-stack-queue-deque.md",
+    "📌 笔记索引.md",
+    "SCPC/训练笔记-C++基础与预处理.md",
+    "SCPC/C to C++.md",
+    "SCPC/C到C++竞赛编程入门.md",
+    "SCPC/C语言学习.md",
+    "工具/维护指令记录.md",
+    "Pasted image 20260908230758.png",
     "D2L/d2L 学习.md",
     "kael 的日记/2026-09-19.md",
     "kael 的日记/2026-09-18.md",
@@ -223,19 +229,14 @@
     "未命名 2.base",
     "未命名 4.base",
     "D2L/单节/GRU知识点总结.md",
-    "SCPC/STL容器对比-map-set-stack-queue-deque.md",
     "D2L/单节/d2l-Bahdanau注意力.md",
     "D2L/复习.md",
     "随笔/inori 记录.md",
-    "SCPC/C语言学习.md",
     "随笔/C考试复习题.md",
     "SCPC/考式 Z扫描.md",
     "项目白皮书",
     "工具/断点.md",
     "工具/Markdown 常用语法速查表.md",
-    "随笔/计算机任务清单.md",
-    "随笔/入党.md",
-    "SCPC/Pasted image 20260729144854.png.md",
     "随笔",
     "工具",
     "conda 常用指令.md~RFf7c3111.TMP",
