@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCPC/SCPC.md",
+                "file": "工具/维护指令记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SCPC"
+              "title": "维护指令记录"
             }
           }
         ]
@@ -200,9 +200,11 @@
   },
   "active": "d45a6d01772c4d25",
   "lastOpenFiles": [
-    "D2L/d2L 学习.md",
     "📌 笔记索引.md",
     "Pasted image 20260908230758.png",
+    "工具/维护指令记录.md",
+    "SCPC/SCPC.md",
+    "D2L/d2L 学习.md",
     "kael 的日记/2026-09-19.md",
     "kael 的日记/2026-09-18.md",
     "kael 的日记",
@@ -221,7 +223,6 @@
     "未命名 2.base",
     "未命名 4.base",
     "D2L/单节/GRU知识点总结.md",
-    "SCPC/SCPC.md",
     "SCPC/STL容器对比-map-set-stack-queue-deque.md",
     "D2L/单节/d2l-Bahdanau注意力.md",
     "D2L/复习.md",
@@ -235,8 +236,6 @@
     "随笔/计算机任务清单.md",
     "随笔/入党.md",
     "SCPC/Pasted image 20260729144854.png.md",
-    "SCPC/matrix_teleport_solution.md",
-    "SCPC/离散化.md",
     "随笔",
     "工具",
     "conda 常用指令.md~RFf7c3111.TMP",
