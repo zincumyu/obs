@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCPC/SCPC.md",
+                "file": "kael 的日记/2026-09-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SCPC"
+              "title": "2026-09-18"
             }
           }
         ]
@@ -76,8 +76,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,10 +198,11 @@
       "hermes-agent:Open Hermes smart graph": false
     }
   },
-  "active": "d45a6d01772c4d25",
+  "active": "2c9db63b5cd6e2dc",
   "lastOpenFiles": [
-    "SCPC/STL容器对比-map-set-stack-queue-deque.md",
+    "kael 的日记/2026-09-19.md",
     "SCPC/SCPC.md",
+    "SCPC/STL容器对比-map-set-stack-queue-deque.md",
     "SCPC/C语言学习.md",
     "SCPC/matrix_teleport_solution.md",
     "📌 笔记索引.md",
@@ -212,7 +212,6 @@
     "工具/维护指令记录.md",
     "Pasted image 20260908230758.png",
     "D2L/d2L 学习.md",
-    "kael 的日记/2026-09-19.md",
     "kael 的日记/2026-09-18.md",
     "kael 的日记",
     "未命名 1.base",
