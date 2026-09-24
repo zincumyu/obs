@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAA/开发待办.md",
+                "file": "py-utils/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "开发待办"
+              "title": "未命名"
             }
           }
         ]
@@ -198,8 +198,10 @@
       "hermes-agent:Open Hermes smart graph": false
     }
   },
-  "active": "2c9db63b5cd6e2dc",
+  "active": "d45a6d01772c4d25",
   "lastOpenFiles": [
+    "SAA/开发待办.md",
+    "py-utils/未命名.md",
     "py-utils",
     "SAA/网站管理.md",
     "SAA/进阶AI对话.md",
@@ -232,14 +234,12 @@
     "D2L/pic/Pasted image 20260802120517.png",
     "D2L/pic/Pasted image 20260729170222.png",
     "D2L/pic/Pasted image 20260724160203.png",
-    "工具/git 常用指令.md",
     "未命名 3.base",
     "未命名 2.base",
     "未命名 4.base",
     "项目白皮书",
     "随笔",
     "工具",
-    "conda 常用指令.md~RFf7c3111.TMP",
     "D2L/pic/Pasted image 20260820195108.png",
     "D2L/pic/Pasted image 20260820195023.png",
     "D2L/pic/Pasted image 20260819235852.png",
