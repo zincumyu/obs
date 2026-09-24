@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kael 的日记/2026-09-24.md",
+                "file": "SAA/开发待办.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-24"
+              "title": "开发待办"
             }
           }
         ]
@@ -200,6 +200,10 @@
   },
   "active": "d45a6d01772c4d25",
   "lastOpenFiles": [
+    "SAA/网站管理.md",
+    "SAA/进阶AI对话.md",
+    "SAA/进阶学习智能体.md",
+    "kael 的日记/2026-09-24.md",
     "kael 的日记/2026-09-23.md",
     "kael 的日记/2026-09-22.md",
     "kael 的日记/2026-09-21.md",
@@ -208,7 +212,6 @@
     "kael 的日记/2026-09-18.md",
     "SCPC/STL容器对比-map-set-stack-queue-deque.md",
     "随笔/待办.md",
-    "kael 的日记/2026-09-24.md",
     "SCPC/SCPC.md",
     "📌 笔记索引.md",
     "随笔/inori 记录.md",
@@ -230,12 +233,9 @@
     "D2L/pic/Pasted image 20260724160203.png",
     "工具/git 常用指令.md",
     "工具/硬技能（必须会）&&  指令技巧.md",
-    "SAA/网站管理.md",
-    "项目白皮书/DSH web 保护.md",
     "未命名 3.base",
     "未命名 2.base",
     "未命名 4.base",
-    "D2L/单节/GRU知识点总结.md",
     "项目白皮书",
     "随笔",
     "工具",
