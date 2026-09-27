@@ -257,14 +257,14 @@ cv2.polylines(img, [pts], isClosed, color, thickness)
 
 **关键参数**
 
-| 参数 | 说明 |
-|---|---|
-| `color` | BGR 元组，如 `(0,255,0)` 绿、`(0,0,255)` 红、`(255,0,0)` 蓝 |
-| `thickness` | 线宽；`-1` 或 `cv2.FILLED` = 实心填充 |
-| `lineType` | `cv2.LINE_AA` 抗锯齿，画圆/斜线更顺滑 |
-| `fontFace` | 常用 `cv2.FONT_HERSHEY_SIMPLEX` |
-| `fontScale` | 字号缩放，1.0 左右合适 |
-| `org` | 文字**左下角**坐标（不是左上角！） |
+| 参数          | 说明                                                 |
+| ----------- | -------------------------------------------------- |
+| `color`     | BGR 元组，如 `(0,255,0)` 绿、`(0,0,255)` 红、`(255,0,0)` 蓝 |
+| `thickness` | 线宽；`-1` 或 `cv2.FILLED` = 实心填充                      |
+| `lineType`  | `cv2.LINE_AA` 抗锯齿，画圆/斜线更顺滑                         |
+| `fontFace`  | 常用 `cv2.FONT_HERSHEY_SIMPLEX`                      |
+| `fontScale` | 字号缩放，1.0 左右合适                                      |
+| `org`       | 文字**左下角**坐标（不是左上角！）                                |
 
 **最小可运行代码**
 
