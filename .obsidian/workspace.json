@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "py-utils/未命名.md",
+                "file": "deepseeek/OpenCV招新突击复习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "OpenCV招新突击复习"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "76c54abdbdff0b3e",
@@ -182,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.20013427734375
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,11 +200,11 @@
       "hermes-agent:Open Hermes smart graph": false
     }
   },
-  "active": "b414dd7a4c43273e",
+  "active": "d45a6d01772c4d25",
   "lastOpenFiles": [
+    "py-utils/未命名.md",
     "deepseeek/OpenCV招新突击复习.md",
     "专业名词.md",
-    "py-utils/未命名.md",
     "项目白皮书/DSH web 保护.md",
     "kael 的日记/2026-09-26.md",
     "kael 的日记/2026-09-25.md",
