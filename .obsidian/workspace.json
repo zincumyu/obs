@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deepseeek/OpenCV招新突击复习.md",
+                "file": "📌 笔记索引.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OpenCV招新突击复习"
+              "title": "📌 笔记索引"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zxy114",
+                "query": "stack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,8 +199,9 @@
       "hermes-agent:Open Hermes smart graph": false
     }
   },
-  "active": "ea998bb4eeafc294",
+  "active": "d45a6d01772c4d25",
   "lastOpenFiles": [
+    "deepseeek/OpenCV招新突击复习.md",
     "kael 的日记/2026-09-30.md",
     "kael 的日记/2026-09-29.md",
     "保研/推免作战手册（提炼）.md",
@@ -209,7 +210,6 @@
     "kael 的日记/2026-09-28.md",
     "kael 的日记/2026-09-27.md",
     "py-utils/未命名.md",
-    "deepseeek/OpenCV招新突击复习.md",
     "专业名词.md",
     "项目白皮书/DSH web 保护.md",
     "kael 的日记/2026-09-26.md",
