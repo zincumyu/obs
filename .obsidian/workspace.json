@@ -177,9 +177,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "77a70755f84f36e0",
+            "type": "leaf",
+            "state": {
+              "type": "hermes-chat",
+              "state": {},
+              "icon": "bot",
+              "title": "Hermes Agent"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -199,7 +209,7 @@
       "hermes-agent:Open Hermes smart graph": false
     }
   },
-  "active": "d45a6d01772c4d25",
+  "active": "77a70755f84f36e0",
   "lastOpenFiles": [
     "kael 的日记/2026-10-01.md",
     "SCPC/C到C++竞赛编程入门.md",
