@@ -15,7 +15,7 @@
               "state": {
                 "file": "CF/简单数论.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "简单数论"
