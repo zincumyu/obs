@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCPC/STL容器对比-map-set-stack-queue-deque.md",
+                "file": "CF/简单数论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "STL容器对比-map-set-stack-queue-deque"
+              "title": "简单数论"
             }
           }
         ],
@@ -91,8 +91,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCPC/STL容器对比-map-set-stack-queue-deque.md",
+                "file": "CF/简单数论.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -208,10 +207,12 @@
   "active": "cf8c31364d139d45",
   "lastOpenFiles": [
     "📌 笔记索引.md",
+    "Pasted image 20260908230758.png",
+    "专业名词.md",
+    "SCPC/STL容器对比-map-set-stack-queue-deque.md",
     "SCPC/C到C++竞赛编程入门.md",
     "CF/简单数论.md",
     "kael 的日记/2026-10-02.md",
-    "SCPC/STL容器对比-map-set-stack-queue-deque.md",
     "CF",
     "kael 的日记/2026-10-01.md",
     "deepseeek/OpenCV招新突击复习.md",
@@ -223,7 +224,6 @@
     "kael 的日记/2026-09-28.md",
     "kael 的日记/2026-09-27.md",
     "py-utils/未命名.md",
-    "专业名词.md",
     "项目白皮书/DSH web 保护.md",
     "kael 的日记/2026-09-26.md",
     "kael 的日记/2026-09-25.md",
@@ -235,8 +235,6 @@
     "kael 的日记/2026-09-24.md",
     "kael 的日记/2026-09-23.md",
     "kael 的日记/2026-09-22.md",
-    "kael 的日记/2026-09-21.md",
-    "Pasted image 20260908230758.png",
     "kael 的日记",
     "未命名 1.base",
     "未命名.base",
