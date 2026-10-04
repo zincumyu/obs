@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CF/优先队列.md",
+                "file": "SCPC/训练笔记-C++基础与预处理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "优先队列"
+              "title": "训练笔记-C++基础与预处理"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stack",
+                "query": "前缀",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,14 +207,14 @@
   },
   "active": "cf8c31364d139d45",
   "lastOpenFiles": [
-    "CF/简单数论.md",
+    "SCPC/C到C++竞赛编程入门.md",
     "CF/优先队列.md",
+    "CF/简单数论.md",
     "kael 的日记/2026-10-03.md",
     "📌 笔记索引.md",
     "Pasted image 20260908230758.png",
     "专业名词.md",
     "SCPC/STL容器对比-map-set-stack-queue-deque.md",
-    "SCPC/C到C++竞赛编程入门.md",
     "kael 的日记/2026-10-02.md",
     "CF",
     "kael 的日记/2026-10-01.md",
