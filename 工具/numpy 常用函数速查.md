@@ -15,27 +15,27 @@ tags:
 
 ## ⚡ 速查表（最常用，先看这张）
 
-| 想做什么 | 写法 |
-| --- | --- |
-| 建数组 | `np.array([[1,2],[3,4]])`、`np.zeros((2,3))`、`np.ones`、`np.arange(6)`、`np.linspace(0,1,5)` |
-| 看形状/类型 | `x.shape`、`x.dtype`、`x.ndim`、`x.size` |
-| 变形 | `x.reshape(2,3)`、`x.reshape(-1)`（-1 自动推）、`x.T` |
-| 加一维 | `x[:, None]` 或 `x[..., None]` 或 `np.expand_dims(x, 1)` |
-| 降一维 | `x.squeeze()`、`x.reshape(-1)` |
-| 矩阵乘 | `A @ B`（推荐）、`np.matmul(A,B)` |
-| 点积/内积 | `np.dot(u, w)`（1D 是内积） |
-| 爱因斯坦求和 | `np.einsum('ij,jk->ik', A, B)` |
-| 沿轴归约 | `x.sum(axis=0)`、`x.mean(axis=1)`、`x.max(axis=-1)` |
-| 保持维度归约 | `x.max(axis=1, keepdims=True)` ← softmax 必备 |
-| 逐元素 | `x + y`、`x * y`（**不是**矩阵乘！矩阵乘是 `@`） |
-| 条件取值 | `np.where(cond, a, b)` |
-| 最大位置 | `x.argmax(-1)` |
-| 裁剪 | `np.clip(x, 0, 1)` |
-| 拼接 | `np.concatenate([a,b], axis=0)`、`np.stack([a,b])` |
-| 转置指定轴 | `x.transpose(1,0,2)`、`x.swapaxes(0,2)` |
-| 新随机数 | `rng = np.random.default_rng(42)`；`rng.normal(size=(2,2))` |
-| 判相等（浮点） | `np.allclose(a, b)` |
-| 复制 | `x.copy()` |
+| 想做什么    | 写法                                                                                        |
+| ------- | ----------------------------------------------------------------------------------------- |
+| 建数组     | `np.array([[1,2],[3,4]])`、`np.zeros((2,3))`、`np.ones`、`np.arange(6)`、`np.linspace(0,1,5)` |
+| 看形状/类型  | `x.shape`、`x.dtype`、`x.ndim`、`x.size`                                                     |
+| 变形      | `x.reshape(2,3)`、`x.reshape(-1)`（-1 自动推）、`x.T`                                            |
+| 加一维     | `x[:, None]` 或 `x[..., None]` 或 `np.expand_dims(x, 1)`                                    |
+| 降一维     | `x.squeeze()`、`x.reshape(-1)`                                                             |
+| 矩阵乘     | `A @ B`（推荐）、`np.matmul(A,B)`                                                              |
+| 点积/内积   | `np.dot(u, w)`（1D 是内积）                                                                    |
+| 爱因斯坦求和  | `np.einsum('ij,jk->ik', A, B)`                                                            |
+| 沿轴归约    | `x.sum(axis=0)`、`x.mean(axis=1)`、`x.max(axis=-1)`                                         |
+| 保持维度归约  | `x.max(axis=1, keepdims=True)` ← softmax 必备                                               |
+| 逐元素     | `x + y`、`x * y`（**不是**矩阵乘！矩阵乘是 `@`）                                                       |
+| 条件取值    | `np.where(cond, a, b)`                                                                    |
+| 最大位置    | `x.argmax(-1)`                                                                            |
+| 裁剪      | `np.clip(x, 0, 1)`                                                                        |
+| 拼接      | `np.concatenate([a,b], axis=0)`、`np.stack([a,b])`                                         |
+| 转置指定轴   | `x.transpose(1,0,2)`、`x.swapaxes(0,2)`                                                    |
+| 新随机数    | `rng = np.random.default_rng(42)`；`rng.normal(size=(2,2))`                                |
+| 判相等（浮点） | `np.allclose(a, b)`                                                                       |
+| 复制      | `x.copy()`                                                                                |
 
 ---
 
