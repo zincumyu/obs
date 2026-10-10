@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/numpy 常用函数速查.md",
-                "mode": "preview",
+                "file": "专业名词.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "numpy 常用函数速查"
+              "title": "专业名词"
             }
           },
           {
@@ -201,10 +201,11 @@
   },
   "active": "d5e046de0b6c111e",
   "lastOpenFiles": [
-    "保研/推免作战手册（提炼）.md",
-    "保研/个人档案.md",
+    "Pasted image 20260908230758.png",
     "📌 笔记索引.md",
     "工具/numpy 常用函数速查.md",
+    "保研/推免作战手册（提炼）.md",
+    "保研/个人档案.md",
     "kael 的日记/2026-10-09.md",
     "kael 的日记/2026-10-08.md",
     "kael 的日记/2026-10-06.md",
@@ -225,9 +226,7 @@
     "SAA/网站管理.md",
     "SAA/进阶AI对话.md",
     "专业名词.md",
-    "Pasted image 20260908230758.png",
     "kael 的日记/2026-10-05.md",
-    "kael 的日记/2026-10-04.md",
     "CF",
     "保研",
     "py-utils",
