@@ -11,10 +11,14 @@
             "id": "cf8c31364d139d45",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "开发提示词.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "开发提示词"
             }
           }
         ]
@@ -187,6 +191,7 @@
   },
   "active": "cf8c31364d139d45",
   "lastOpenFiles": [
+    "开发提示词.md",
     "专业名词.md",
     "py-utils/PyTorch-ONNX 设备选择.md",
     "deepseek/OpenCV招新突击复习.md",
@@ -214,7 +219,6 @@
     "kael 的日记/2026-10-07.md",
     "SCPC/SCPC.md",
     "SCPC/matrix_teleport_solution.md",
-    "SCPC/C语言学习.md",
     "CF",
     "保研",
     "py-utils",
