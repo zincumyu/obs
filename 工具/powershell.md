@@ -11,3 +11,5 @@ if __name__ == "__main__":
     main()
 '@ | Set-Content .\demo.py
 ```
+
+#小结一下这个FastAPI和request
