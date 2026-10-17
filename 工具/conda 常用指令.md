@@ -212,4 +212,4 @@ conda env remove -n myproj             # 整个环境删掉,干净利落
 4. **conda 与 pip 混用**:优先用 conda 装;conda 找不到的包再 pip。混装顺序不当时可能引起依赖冲突,报错就重建环境。
 5. **别乱动 base**:base 环境装太多包容易引发版本冲突,而且删不掉(只能重装 Anaconda)。
 
-> 相关:[[pip 源]] [[python tips]] [[硬技能（必须会）&&  指令技巧]]
+> 相关:[[pip]] [[python tips]] [[硬技能（必须会）&&  指令技巧]]
