@@ -4,6 +4,8 @@ tags:
   - pip
   - 环境
 ---
+uv pip install
+
 pip cache purge 清除pip
 
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
