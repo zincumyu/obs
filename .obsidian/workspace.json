@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D2L/专业名词.md",
+                "file": "CS231n/transformers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "专业名词"
+              "title": "transformers"
             }
           }
         ]
@@ -191,6 +191,7 @@
   },
   "active": "cf8c31364d139d45",
   "lastOpenFiles": [
+    "D2L/专业名词.md",
     "📌 笔记索引.md",
     "开发提示词.md",
     "Pasted image 20260908230758.png",
@@ -217,7 +218,6 @@
     "deepseek",
     "SCPC/考试 Z扫描.md",
     "SCPC/差分与区间加法.md",
-    "D2L/专业名词.md",
     "kael 的日记/2026-10-11.md",
     "CF",
     "保研",
