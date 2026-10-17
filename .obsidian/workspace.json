@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/pip.md",
+                "file": "D2L/专业名词.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pip"
+              "title": "专业名词"
             }
           }
         ]
@@ -191,10 +191,15 @@
   },
   "active": "cf8c31364d139d45",
   "lastOpenFiles": [
+    "📌 笔记索引.md",
     "开发提示词.md",
+    "Pasted image 20260908230758.png",
+    "CS231n/transformers.md",
+    "CS231n/模型评估.md",
+    "CS231n/model_evaluation_notes.md",
+    "工具/pip.md",
     "工具/numpy 常用函数速查.md",
     "工具/python tips.md",
-    "工具/pip.md",
     "工具/git 常用指令.md",
     "工具/Markdown 常用语法速查表.md",
     "工具/conda 常用指令.md",
@@ -204,12 +209,9 @@
     "工具/硬技能（必须会）&&  指令技巧.md",
     "项目白皮书/医疗系统项目.md",
     "项目白皮书/DSH web 保护.md",
-    "CS231n/model_evaluation_notes.md",
-    "CS231n/模型评估.md",
     "deepseek/OpenCV招新突击复习.md",
     "CS231n",
     "kael 的日记/2026-10-15.md",
-    "Pasted image 20260908230758.png",
     "专业名词.md",
     "py-utils/PyTorch-ONNX 设备选择.md",
     "deepseek",
@@ -217,9 +219,6 @@
     "SCPC/差分与区间加法.md",
     "D2L/专业名词.md",
     "kael 的日记/2026-10-11.md",
-    "kael 的日记/2026-10-10.md",
-    "kael 的日记/2026-10-09.md",
-    "📌 笔记索引.md",
     "CF",
     "保研",
     "py-utils",
