@@ -76,8 +76,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,7 +189,7 @@
       "hermes-agent:Open Hermes smart graph": false
     }
   },
-  "active": "cf8c31364d139d45",
+  "active": "2c9db63b5cd6e2dc",
   "lastOpenFiles": [
     "CS231n/task3-transformers1.md",
     "D2L/专业名词.md",
