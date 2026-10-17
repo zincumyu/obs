@@ -21,3 +21,19 @@
 比较指标，保存微调后的模型和分词器
 
 `distilbert-base-uncased` 是一个已经通过大规模文本预训练的 DistilBERT 模型。它已经学到了很多通用的语言模式，因此不用从随机参数开始训练整个网络。
+
+任务：把模型封装成 API
+```json
+{
+  "text": "The movie was absolutely wonderful."
+}
+```
+
+服务返回：
+
+```json
+{
+  "label": "POSITIVE",
+  "score": 0.9724
+}
+```

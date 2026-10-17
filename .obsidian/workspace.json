@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS231n/transformers.md",
+                "file": "工具/git 常用指令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "transformers"
+              "title": "git 常用指令"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "map",
+                "query": "echo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,11 +192,11 @@
   },
   "active": "cf8c31364d139d45",
   "lastOpenFiles": [
+    "CS231n/task3-transformers1.md",
     "D2L/专业名词.md",
     "📌 笔记索引.md",
     "开发提示词.md",
     "Pasted image 20260908230758.png",
-    "CS231n/transformers.md",
     "CS231n/模型评估.md",
     "CS231n/model_evaluation_notes.md",
     "工具/pip.md",
