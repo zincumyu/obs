@@ -37,3 +37,18 @@
   "score": 0.9724
 }
 ```
+
+# FastAPI + Requests 学习笔记
+
+## 一、它们分别是干什么的？
+
+FastAPI（Web API 框架）负责提供服务，Requests（HTTP 客户端库）负责调用服务。
+
+这里先理解四件事：
+
+- `app = FastAPI()`：创建 Web 应用。
+- `@app.post("/predict")`：注册一个 POST（提交数据）接口。
+- `PredictRequest`：定义请求的数据结构，并通过 Pydantic 校验输入。
+- `return {...}`：返回 Python 字典，FastAPI 会将它转换为 JSON（常见的网络数据格式）。
+
+可以看看`\test_api_errors.py` 和\client_test 和\app.py
