@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git push",
+                "query": "git brach",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
