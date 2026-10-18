@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/conda 常用指令.md",
+                "file": "开发提示词.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conda 常用指令"
+              "title": "开发提示词"
             }
           }
         ]
@@ -191,6 +191,8 @@
   },
   "active": "cf8c31364d139d45",
   "lastOpenFiles": [
+    "Pasted image 20260908230758.png",
+    "工具/conda 常用指令.md",
     "kael 的日记/2026-10-18.md",
     "CS231n/task3-transformers1.md",
     "工具/powershell.md",
@@ -198,14 +200,12 @@
     "工具/断点.md",
     "工具/硬技能（必须会）&&  指令技巧.md",
     "工具/conda.md",
-    "工具/conda 常用指令.md",
     "工具/git 常用指令.md",
     "工具/python tips.md",
     "工具/pip.md",
     "D2L/专业名词.md",
     "📌 笔记索引.md",
     "开发提示词.md",
-    "Pasted image 20260908230758.png",
     "CS231n/模型评估.md",
     "CS231n/model_evaluation_notes.md",
     "工具/numpy 常用函数速查.md",
@@ -219,7 +219,6 @@
     "专业名词.md",
     "py-utils/PyTorch-ONNX 设备选择.md",
     "deepseek",
-    "SCPC/考试 Z扫描.md",
     "CF",
     "保研",
     "py-utils",
