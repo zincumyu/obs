@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp/开发极客带临时.md",
+                "file": "temp/提示词缓存.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "开发极客带临时"
+              "title": "提示词缓存"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp/提示词缓存.md",
+                "file": "temp/开发极客带临时.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "提示词缓存"
+              "title": "开发极客带临时"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,13 +213,13 @@
       "hermes-agent:Open Hermes smart graph": false
     }
   },
-  "active": "056e7838c253ed70",
+  "active": "6b3d22c0d7f8681e",
   "lastOpenFiles": [
-    "temp/SWUST 校园开发者社区.md",
     "temp/开发极客带临时.md",
     "temp/开发medpal临时记录.md",
-    "temp/提示词缓存.md",
     "temp/企划.md",
+    "temp/SWUST 校园开发者社区.md",
+    "temp/提示词缓存.md",
     "项目白皮书/医疗系统项目.md",
     "项目白皮书/DSH web 保护.md",
     "CS231n/task3-transformers1.md",
