@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp/SWUST 校园开发者社区.md",
+                "file": "temp/企划.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SWUST 校园开发者社区"
+              "title": "企划"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "SWUST 校园开发者社区"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "76c54abdbdff0b3e",
@@ -215,12 +213,13 @@
       "hermes-agent:Open Hermes smart graph": false
     }
   },
-  "active": "056e7838c253ed70",
+  "active": "6b3d22c0d7f8681e",
   "lastOpenFiles": [
+    "temp/SWUST 校园开发者社区.md",
+    "temp/企划.md",
     "📌 笔记索引.md",
     "temp/开发极客带临时.md",
     "temp/开发medpal临时记录.md",
-    "temp/SWUST 校园开发者社区.md",
     "kael 的日记/2026-10-19.md",
     "开发提示词.md",
     "未命名.md",
@@ -244,7 +243,6 @@
     "工具/Markdown 常用语法速查表.md",
     "工具/维护指令记录.md",
     "项目白皮书/医疗系统项目.md",
-    "项目白皮书/DSH web 保护.md",
     "CS231n",
     "deepseek",
     "CF",
