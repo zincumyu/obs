@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp/企划.md",
+                "file": "temp/开发极客带临时.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "企划"
+              "title": "开发极客带临时"
             }
           },
           {
@@ -215,8 +215,8 @@
   },
   "active": "6b3d22c0d7f8681e",
   "lastOpenFiles": [
-    "temp/SWUST 校园开发者社区.md",
     "temp/企划.md",
+    "temp/SWUST 校园开发者社区.md",
     "📌 笔记索引.md",
     "temp/开发极客带临时.md",
     "temp/开发medpal临时记录.md",
