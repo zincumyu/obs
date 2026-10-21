@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📌 笔记索引.md",
+                "file": "temp/SWUST 校园开发者社区.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📌 笔记索引"
+              "title": "SWUST 校园开发者社区"
             }
           },
           {
@@ -217,11 +217,11 @@
   },
   "active": "056e7838c253ed70",
   "lastOpenFiles": [
+    "📌 笔记索引.md",
+    "temp/开发极客带临时.md",
     "temp/开发medpal临时记录.md",
     "temp/SWUST 校园开发者社区.md",
-    "temp/开发极客带临时.md",
     "kael 的日记/2026-10-19.md",
-    "📌 笔记索引.md",
     "开发提示词.md",
     "未命名.md",
     "工具/git 常用指令.md",
