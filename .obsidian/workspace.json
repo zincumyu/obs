@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp/SWUST 校园技术社区.md",
+                "file": "SAA/网站管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SWUST 校园技术社区"
+              "title": "网站管理"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "temp/SWUST 校园技术社区.md",
+                "file": "SAA/网站管理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -215,14 +216,19 @@
   },
   "active": "6b3d22c0d7f8681e",
   "lastOpenFiles": [
+    "kael 的日记/2026-10-18.md",
+    "kael 的日记/2026-09-29.md",
+    "kael 的日记/2026-09-23.md",
+    "kael 的日记/2026-09-22.md",
+    "kael 的日记/2026-09-21.md",
+    "📌 笔记索引.md",
+    "temp/SWUST 校园技术社区.md",
     "temp/人员.md",
     "temp/开发极客带临时.md",
     "temp/开发medpal临时记录.md",
     "temp/企划.md",
     "temp/提示词缓存.md",
-    "temp/SWUST 校园技术社区.md",
     "未命名.md",
-    "📌 笔记索引.md",
     "开发提示词.md",
     "项目白皮书/医疗系统项目.md",
     "项目白皮书/DSH web 保护.md",
@@ -237,12 +243,7 @@
     "工具/conda.md",
     "Pasted image 20260908230758.png",
     "工具/conda 常用指令.md",
-    "kael 的日记/2026-10-18.md",
     "工具/powershell.md",
-    "kael 的日记/2026-10-17.md",
-    "工具/断点.md",
-    "工具/硬技能（必须会）&&  指令技巧.md",
-    "工具/python tips.md",
     "CS231n",
     "deepseek",
     "CF",
